@@ -21,3 +21,6 @@
 
 - 🔭 Recentemente trabalhando na entrega de um sistema de apostas para 3 lotéricas em Fortaleza-CE
 - 🌱 Estudando e aplicando todo santo dia React e React Native (JSX vai entrar na cabeça, nem que seja na força do ódio)
+
+    
+ ![Snake animation](https://github.com/ant-lincoln/ant-lincoln/blob/output/github-contribution-grid-snake.svg)    

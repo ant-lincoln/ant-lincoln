@@ -15,8 +15,6 @@
     <img alight="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img alight="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img alight="center" alt="sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
-    https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white
 <div><br>
 
 - 🔭 Recentemente trabalhando na entrega de um sistema de apostas para 3 lotéricas em Fortaleza-CE

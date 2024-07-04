@@ -1,4 +1,4 @@
-### Olá, me chamo Lincoln Caetano 👋
+### Olá, me chamo Lincoln Caetano (dev Android) 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ant-lincoln)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antlincoln/)
@@ -20,7 +20,7 @@
 <div><br>
 
 - 🔭 Recentemente trabalhando na entrega de um sistema de apostas para algumas lotéricas em Fortaleza-CE
-- 🌱 Estudando e aplicando Java/Kotlin quase todo santo dia
+- 🌱 Foco como desenvolvedor Android Java/Kotlin
 
     
  ![Snake animation](https://github.com/ant-lincoln/ant-lincoln/blob/output/github-contribution-grid-snake.svg)    

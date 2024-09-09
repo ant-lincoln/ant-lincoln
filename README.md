@@ -20,7 +20,6 @@
     <img alight="center" alt="sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <div><br>
 
-- 🔭 Recentemente trabalhando na entrega de um sistema de apostas para algumas lotéricas em Fortaleza-CE
 - 🌱 Foco como desenvolvedor Android Java/Kotlin
 
     
